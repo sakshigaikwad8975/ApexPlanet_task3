@@ -14,7 +14,7 @@ This project is part of **Task 3** of my 45-day internship.
 - Responsive design
 
 ## 🌐 Live Demo
-(Will be added after deployment)
+[(Will be added after deployment)](https://sakshigaikwad8975.github.io/ApexPlanet_task3/)
 
 ## 📁 Repository
 [https://github.com/<your-username>/ApexPlanet_task3](https://github.com/sakshigaikwad8975/ApexPlanet_task3)
